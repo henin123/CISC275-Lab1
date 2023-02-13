@@ -6,7 +6,7 @@ Un-comment this and fill in the info
 const yourName : String = "Heni Patel";
 let yourPronouns : String = "She/Her";
 const yourMajor : String = "Computer Science";
-let classification : String = "soph";
+let classification : String = "sophmore";
 let oneExcite : String = "Learning GitHub";
 let anyConcerns : String = "If anything, list what you may be worried about in this course";
 let funFact : String = "I went skydiving in Dubai";
